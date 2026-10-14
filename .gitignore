@@ -1,6 +1,6 @@
 # Claude Code - fichiers locaux / personnels
-**/settings.local.json
-**/CLAUDE.local.md
+**/settings.json
+**/CLAUDE.md
 **/.credentials.json
 
 # Windows
