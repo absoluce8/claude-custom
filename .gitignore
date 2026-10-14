@@ -1,0 +1,24 @@
+# Claude Code - fichiers locaux / personnels
+**/settings.local.json
+**/CLAUDE.local.md
+**/.credentials.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+.env
+.env.*
